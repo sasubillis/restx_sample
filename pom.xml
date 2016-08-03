@@ -19,6 +19,11 @@
     <dependencies>
         <dependency>
             <groupId>io.restx</groupId>
+            <artifactId>restx-servlet</artifactId>
+            <version>${restx.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.restx</groupId>
             <artifactId>restx-core</artifactId>
             <version>${restx.version}</version>
         </dependency>
